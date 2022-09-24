@@ -1,0 +1,19 @@
+.oddNum{
+    background-color: rgb(255, 139, 139);
+    font-family: "Verdana", "DejaVu Sans", sans-serif;
+}
+
+.thirdele{
+    font-size: 24px;
+}
+
+#secele{
+    color: blue;   
+    font-size: 36px;
+}
+
+#fourele{
+    background-color: rgb(143, 255, 143);
+    font-size: 24px;
+    font-weight: bold;
+}
